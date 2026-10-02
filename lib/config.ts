@@ -69,6 +69,6 @@ export const LANGUAGE_NAMES: Record<string, string> = {
 };
 
 // Video source base URLs
-export const VIDEO_SOURCE_BASE = 'https://vidsrc.to';
-export const VIDEO_SOURCE_EMBED = 'https://vidsrc.to/embed';
-export const VIDEO_SOURCE_API = 'https://vidsrc.to/ajax';
+export const VIDEO_SOURCE_BASE = 'https://vidsrc.me';
+export const VIDEO_SOURCE_EMBED = 'https://vidsrc.me/embed';
+export const VIDEO_SOURCE_API = 'https://vidsrc.me/ajax';
